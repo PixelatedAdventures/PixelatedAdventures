@@ -17,6 +17,7 @@ googleAnalytics = ""
   copyright = "&copy;2022 Pixelated Adventures"
   sidebarAbout = [
     "We are a small indie game studio from Madrid (Spain)",
+    "We are working on our first 3D fantasy game!",
     "We make games mainly with Unity and we also make assets for your store"
   ]
   # Contact page
