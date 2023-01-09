@@ -44,10 +44,14 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Games"
   url = "home/"
   home = true
 
+  [[params.navlinks]]
+  name = "Store"
+  url = "store/"
+  
   [[params.navlinks]]
   name = "The Team"
   url = "about/"
