@@ -1,4 +1,4 @@
-baseURL = "https://pixelatedadventures.github.io/pixelatedadventures"
+baseURL = "https://pixelatedadventures.github.io/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Pixelated Adventures"
@@ -12,7 +12,7 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "violet"
+  style = "default"
   description = "A World of Fun at Your Fingertips"
   copyright = "&copy;2022 Pixelated Adventures"
   sidebarAbout = [
