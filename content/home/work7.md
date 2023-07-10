@@ -12,7 +12,6 @@ A living city to explore which evolves with each passing day.
 {{< youtube Sfml0kpfKG0 >}}
 
 
-
 “A Place for the Unwilling” is a narrative experience set in the last days of a dying city. Explore these twisted streets as you meet their inhabitants and get closer to them. Time never stops and  the end keeps getting closer.
 
 
