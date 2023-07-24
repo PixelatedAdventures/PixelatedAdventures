@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/home/green02.jpg"
 title = "A Place for the Unwilling"

@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/home/60764_116075_orig.png"
 title = "The night Henry Allen died"

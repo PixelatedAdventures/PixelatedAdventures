@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/home/Dp4Nng.png"
 title = "Missing Translation"

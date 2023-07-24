@@ -14,7 +14,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "A World of Fun at Your Fingertips"
-  copyright = "&copy;2022 Pixelated Adventures"
+  copyright = "&copy;2023 Pixelated Adventures"
   sidebarAbout = [
     "We are a small indie game studio from Madrid (Spain)",
     "We are working on our first 3D fantasy game!",
@@ -48,6 +48,10 @@ googleAnalytics = ""
   name = "Games"
   url = "home/"
   home = true
+
+  [[params.navlinks]]
+  name = "Blog"
+  url = "blog/"
 
   [[params.navlinks]]
   name = "Store"

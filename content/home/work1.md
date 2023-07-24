@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/home/sarah.png"
 title = "Who the hell is Sarah?"

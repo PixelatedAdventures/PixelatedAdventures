@@ -1,5 +1,5 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/home/1_mrO2.png"
 title = "The amazing odyssey of growing up"
