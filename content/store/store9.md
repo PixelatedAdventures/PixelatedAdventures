@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/f458b557-a266-4393-a242-7c443d2992ae.webp"
 title = "Cartoon Fantasy Swords"
-weight = 0
+weight = 1
 +++
 
 All the swords your fantasy games need! From the most common to the most epic.

@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/016ae819-baee-42aa-9a2e-73a133ac2964.jpg"
 title = "Cartoon Fantasy Bird Ride 2"
-weight = 1
+weight = 2
 +++
 
 Bird Ride 2 with animations and cartoon textures. Perfect for RPG or fantasy adventure games.

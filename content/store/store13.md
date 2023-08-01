@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/7f1091a0-249e-467d-aff2-41e599b9dfe8.webp"
 title = "Cartoon Fantasy Bows"
-weight = 0
+weight = 1
 +++
 
 All the bows your fantasy games need! From the most common to the most epic.

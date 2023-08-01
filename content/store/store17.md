@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/f3278598-9c56-43cf-a6a9-1f8d2be8ff1b.jpg"
 title = "Cartoon Fantasy Katanas"
-weight = 0
+weight = 1
 +++
 
 All the katanas your fantasy games need! From the most common to the most epic. Hand drawn cartoon textures.

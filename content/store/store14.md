@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/851e1ae9-174f-4949-a4fd-fdb92d01151c.jpg"
 title = "Cartoon Fantasy Cannons"
-weight = 0
+weight = 1
 +++
 
 All the fantasy heavy guns your games need! From the most common to the most epic. Hand drawn cartoon textures.

@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/2d2de872-e6a4-4488-9031-1113c34dba51.jpg"
 title = "Cartoon Fantasy Shields"
-weight = 0
+weight = 1
 +++
 
 All the shields your fantasy games need! From the most common to the most epic. Hand drawn cartoon textures.

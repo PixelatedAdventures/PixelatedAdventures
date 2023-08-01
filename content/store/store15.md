@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/31b6a2de-2fb4-4c49-b805-925f5030ed1f.jpg"
 title = "Cartoon Fantasy Hammers"
-weight = 0
+weight = 1
 +++
 
 All the hammers your fantasy games need! From the most common to the most epic. Hand drawn cartoon textures

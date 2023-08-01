@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/aa907d60-884f-4cce-824f-902935be5828.webp"
 title = "Cartoon Fantasy Guns"
-weight = 0
+weight = 1
 +++
 
 All the fantasy guns your games need! From the most common to the most epic.

@@ -3,7 +3,7 @@ showonlyimage = true
 draft = false
 image = "img/store/d254a2b2-5571-4254-a913-efa65ce65003.webp"
 title = "Cartoon Fantasy Axes"
-weight = 0
+weight = 1
 +++
 
 All the axes your fantasy games need! From the most common to the most epic.
